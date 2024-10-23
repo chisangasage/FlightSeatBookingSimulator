@@ -40,4 +40,5 @@ CREATE TABLE seats (
 );
 ```
 3. Have created a flight.sql to help you run the SQL commands
-4. make sure to compile and run the code together with JDBC in order to the code to work 
+4. Start Xampp server before running the code
+5. make sure to compile and run the code together with JDBC in order to the code to work 
